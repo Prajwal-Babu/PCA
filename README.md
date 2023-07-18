@@ -1,2 +1,2 @@
 # PCA
-Welcome to the PCA (Principal Component Analysis) GitHub repository, dedicated to exploring this powerful dimensionality reduction technique in data science.
+Welcome to the PCA (Principal Component Analysis) GitHub repository, dedicated to exploring this powerful dimensionality reduction technique in data science.This repository provides an in-depth understanding of PCA, including code implementations, visualizations, and resources to guide you in leveraging PCA to extract meaningful features and reduce data complexity. Join us on this journey to enhance your data analysis and modeling capabilities.
